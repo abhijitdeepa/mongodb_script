@@ -1,5 +1,5 @@
 # MongoDB installer
-macos shell script for installing mongo-db on your machine along with mongosh
+simple macos shell script for installing mongo-db on your machine along with mongosh
 
 Instructions to run
 
