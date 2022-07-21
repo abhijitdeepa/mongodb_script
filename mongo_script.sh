@@ -2,7 +2,7 @@
 
 check_last_passed(){
     if [ $? -ne 0 ]; then
-        echo "\nLast command failed. Exiting...🛑🛑🛑\n"
+        echo "\nLast command failed. Exiting... 🛑 🛑 🛑\n"
         exit 1
     fi
 }
