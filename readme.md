@@ -27,7 +27,7 @@ chmod 700 mongo_script.sh
 1. start mongodb in terminal by running <br/>
 
 ```
-brew service start mongodb-community@4.4
+brew services start mongodb-community@4.4
 ```
 2. run mongosh by running
 
@@ -37,5 +37,5 @@ mongosh
 3. After use stop mongodb by running
 
 ```
-brew service stop mongodb-community@4.4
+brew services stop mongodb-community@4.4
 ```
